@@ -139,11 +139,6 @@ This project was developed for academic and educational purposes.
 
 ---
 
-## 🔍 Quick program Demo Video 
-
-* *insert demo video*
-
----
 
 <p align="center">
 
